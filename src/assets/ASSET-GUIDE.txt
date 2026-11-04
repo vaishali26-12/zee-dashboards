@@ -1,1 +1,6 @@
-//
+ZEE99 refreshed assets
+- All original filenames are preserved.
+- Damaged quick-access icon crops have been replaced with complete, centered transparent icons.
+- Cricket, soccer, tennis, eSports and horse-racing artwork has been redrawn as full, proportionate icons.
+- Logo, withdrawal banner, offer banners, promotion banners, and WV/WL26 badges are preserved from the supplied pack.
+- Existing React import paths can remain unchanged.
